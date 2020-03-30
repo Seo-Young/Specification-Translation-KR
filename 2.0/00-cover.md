@@ -4,8 +4,7 @@ Version 2.0
 
 _Establishing trust in the Open Source from which Software Solutions are built_
 
-_소프트웨어 솔루션이 구축되는 곳에서의 오픈 소스에 대한 신뢰 구축_
-
+_소프트웨어 솔루션을 개발할 때, 오픈소스에 대한 신뢰도롤 높이는 방법_
 
 **Contents**
 
